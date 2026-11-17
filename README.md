@@ -78,3 +78,62 @@ GitHub: [sohail-analytics](https://github.com/sohail-analytics)
 ### India Dashboard
 ![Tableau India Dashboard](screenshots/TABLEAU%20INDIA%20DASHBOARD%20ZOMATO%20.png)
 
+
+## Project Methodology
+The project followed an end-to-end data analytics workflow:
+
+1. **Data Preparation – Excel**
+   - Cleaned and organized restaurant data.
+   - Used PivotTables and PivotCharts for analysis.
+   - Created Global and India dashboards with interactive slicers.
+
+2. **Database Analysis – MySQL**
+   - Imported restaurant data into MySQL.
+   - Used SQL queries, joins, filtering and aggregations.
+   - Analyzed restaurant distribution and business metrics.
+
+3. **Visual Analytics – Tableau**
+   - Developed interactive Global and India dashboards.
+   - Created visualizations to explore restaurant performance and market patterns.
+
+4. **Business Intelligence – Power BI**
+   - Prepared data using Power Query.
+   - Built data models and DAX measures.
+   - Developed Global and India interactive reports.
+
+## Key Performance Indicators
+The Global Excel dashboard presents the following KPI values:
+| KPI | Global Result |
+| Total Restaurants | 9,551 |
+| Countries Covered | 15 |
+| Average Rating | 2.89 |
+| Online Delivery Restaurants | 2,451 |
+| Table Booking Restaurants | 1,158 |
+*Values shown are from the Global dashboard. India analysis is presented separately.*
+
+## Skills Demonstrated
+- Data Cleaning and Data Preparation
+- Microsoft Excel – PivotTables, PivotCharts and Slicers
+- MySQL – SQL Queries, Joins and Aggregations
+- Tableau – Interactive Dashboards and Data Visualization
+- Power BI – Power Query, Data Modeling and DAX
+- KPI Development and Business Analysis
+- Data Visualization and Business Reporting
+
+## Project Scope
+This project contains two separate analytical scopes:
+- **Global Analysis:** Restaurant trends across 15 countries represented in the dataset.
+- **India Analysis:** Focused analysis of restaurant distribution and market patterns within India.
+
+## Repository Structure
+- `excel/` – Excel analysis workbook
+- `sql/` – MySQL analysis scripts
+- `tableau/` – Tableau workbook
+- `powerbi/` – Power BI reports
+- `screenshots/` – Global and India dashboard previews
+- `documentation/` – Project presentation and documentation
+
+## Conclusion
+This project demonstrates an end-to-end analytics workflow using Excel, MySQL, Tableau and Power BI. It combines data preparation, SQL-based analysis, interactive dashboard development and business reporting across Global and India restaurant markets.
+
+
