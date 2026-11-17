@@ -49,4 +49,32 @@ Dashboard screenshots are available in the [`screenshots`](./screenshots/) folde
 Developed by **Mohammed Sohail** as a Data Analytics portfolio project.
 
 ## Contact
-GitHub: [sohail-analytics](https://github.com/sohail-analytics)
+GitHub: [sohail-analytics](https://github.com/sohail-analytics) 
+
+
+## Dashboard Previews
+
+### 1. Excel Dashboards
+
+**Global Dashboard**
+![Excel Global Dashboard](./screenshots/EXCEL%20GLOBAL%20DASHBOARD%20ZOMATO%20.png)
+
+**India Dashboard**
+![Excel India Dashboard](./screenshots/EXCEL%20INDIA%20DASHBOARD%20ZOMATO.png)
+
+### 2. Power BI Dashboards
+
+**Global Dashboard**
+![Power BI Global Dashboard](./screenshots/POWERBI%20GLOBAL%20DASHBOARD%20ZOMATO.png)
+
+**India Dashboard**
+![Power BI India Dashboard](./screenshots/POWERBI%20INDIA%20DASHBOARD%20ZOMATO.png)
+
+### 3. Tableau Dashboards
+
+**Global Dashboard**
+![Tableau Global Dashboard](./screenshots/TABLEAU%20GLOBAL%20DASHBOARD%20ZOMATO.png)
+
+**India Dashboard**
+![Tableau India Dashboard](./screenshots/TABLEAU%20INDIA%20DASHBOARD%20ZOMATO.png)
+
